@@ -41,3 +41,6 @@
 [submodule "Libraries/MQSensorsLib"]
 	path = Libraries/MQSensorsLib
 	url = https://github.com/miguel5612/MQSensorsLib.git
+[submodule "Libraries/bsdiff"]
+	path = Libraries/bsdiff
+	url = https://github.com/mendsley/bsdiff.git
